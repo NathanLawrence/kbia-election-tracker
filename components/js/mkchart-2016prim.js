@@ -2,12 +2,12 @@ var gopdata = {
     labels: ["Cruz", "Kasich", "Rubio", "Trump"],
     datasets: [
         {
-            label: "My First dataset",
+            label: "GOP Presidential Nomination",
             fillColor: "rgba(0, 38, 86, 0.5)",
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [0, 0, 0, 0]
+            data: [40, 22, 8, 10]
         }]
 };
 
@@ -15,12 +15,12 @@ var demdata = {
     labels: ["Clinton", "Sanders"],
     datasets: [
         {
-            label: "My First dataset",
+            label: "Dem. Presidential Nomination",
             fillColor: "rgba(0, 38, 86, 0.5)",
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [0, 0]
+            data: [50, 50]
         }]
 };
 
@@ -28,12 +28,12 @@ var propdata = {
     labels: ["Yes", "No"],
     datasets: [
         {
-            label: "My First dataset",
+            label: "City of Columbia Proposition One",
             fillColor: "rgba(0, 38, 86, 0.5)",
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [0, 0]
+            data: [19, 71]
         }]
 };
 
@@ -43,14 +43,13 @@ var prop = document.getElementById("prop").getContext("2d");
 
 Chart.defaults.global.responsive = true;
 
-new Chart(gopnom).Bar(gopdata, {
-    barShowStroke: false
-});
+var options = {
+        scaleLabel : "<%= value + '%'%>",
+        barShowStroke: false
+};
 
-new Chart(demnom).Bar(demdata, {
-    barShowStroke: false
-});
+new Chart(gopnom).Bar(gopdata, options);
 
-new Chart(prop).Bar(propdata, {
-    barShowStroke: false
-});
+new Chart(demnom).Bar(demdata, options);
+
+new Chart(prop).Bar(propdata, options);
