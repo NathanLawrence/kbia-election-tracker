@@ -7,11 +7,43 @@
 	<script type="text/javascript" src="js/lib/tabletop.js"></script>
 </head>
 <body>
-<h1 class="text-center">KBIA Election Tracker</h1>
+<h1 class="text-center">Missouri and Columbia Election Results</h1>
+<div class="container-fluid">
 	<div class="col-sm-4">
-	<h3 class="text-center">GOP Nomination</h3>
-	<canvas id="gop-nom" width="1000" height="1000"></canvas>
+		<h3 class="text-center">GOP Presidential Nomination</h3>
+		<canvas id="gop-nom" width="1000" height="1000"></canvas>
+		<div class="reported">
+			0 of 3041 precincts reported.
+		</div>
+		<!--<div class="result text-center">
+			<span class="glyphicon glyphicon-ok"></span> Test
+		</div>-->
+		<div class="result text-center">
+			<span class="glyphicon glyphicon-remove"></span> No Data
+		</div>
 	</div>
+	<div class="col-sm-4">
+		<h3 class="text-center">Dem. Presidential Nomination</h3>
+		<canvas id="dem-nom" width="1000" height="1000"></canvas>
+		<div class="reported">
+			0 of 3041 precincts reported.
+		</div>
+		<div class="result text-center">
+			<span class="glyphicon glyphicon-remove"></span> No Data
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<h3 class="text-center">City of Columbia Proposition One</h3>
+		<canvas id="prop" width="1000" height="1000"></canvas>
+		<div class="reported">
+			0 of 32 precincts reported.
+		</div>
+		<div class="result text-center">
+			<span class="glyphicon glyphicon-remove"></span> No Data
+		</div>
+	</div>
+</div>
+
 	<script type="text/javascript" src="js/mkchart-2016prim.js"></script>
 </body>
 </html>
