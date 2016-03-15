@@ -44,7 +44,7 @@ var prop = document.getElementById("prop").getContext("2d");
 Chart.defaults.global.responsive = true;
 
 var options = {
-        tooltipTemplate: "<%if (label){%><%=label %>: <%}%><%= value + '%' %>",
+        tooltipTemplate: "<%if (label){%><%=label %> - <%}%><%= value + '%' %>",
         scaleLabel : "<%= value + '%'%>",
         barShowStroke: false
 };
