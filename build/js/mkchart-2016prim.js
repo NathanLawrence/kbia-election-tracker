@@ -7,7 +7,7 @@ var gopdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [41, 8, 5, 43]
+            data: [41, 9, 6, 42]
         }]
 };
 
@@ -33,7 +33,7 @@ var propdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [56, 43]
+            data: [54, 46]
         }]
 };
 
