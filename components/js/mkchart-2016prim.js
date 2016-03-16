@@ -7,7 +7,7 @@ var gopdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [32, 10, 13, 37]
+            data: [41, 8, 5, 43]
         }]
 };
 
@@ -20,7 +20,7 @@ var demdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [64, 33]
+            data: [47, 52]
         }]
 };
 
@@ -33,7 +33,7 @@ var propdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [58, 42]
+            data: [56, 43]
         }]
 };
 
