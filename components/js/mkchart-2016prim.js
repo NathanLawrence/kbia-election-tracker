@@ -7,7 +7,7 @@ var gopdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [41, 9, 6, 41]
+            data: [41, 10, 6, 41]
         }]
 };
 
@@ -20,7 +20,7 @@ var demdata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [48, 51]
+            data: [50, 50]
         }]
 };
 
