@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Sen",
+				"SENSOR_SIZE_CHOICES"
+			],
+			[
+				"MEDIUM_FORMAT_",
+				"MEDIUM_FORMAT_OTHER"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "markdown",
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"reindent",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsrein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jslint",
+				"JSLint"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nathanlawrence/projects/kbia-election-tracker"
+	],
+	"file_history":
+	[
+		"/Users/nathanlawrence/projects/kbia-election-tracker/components/full.html",
+		"/Users/nathanlawrence/projects/kbia-election-tracker/components/index.html",
+		"/Users/nathanlawrence/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/nathanlawrence/Box Sync/Student Work/newman-visits.md",
+		"/Users/nathanlawrence/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/who-we-are.html",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/_includes/head.html",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/_layouts/footer.html",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/less/styles.less",
+		"/Users/nathanlawrence/Desktop/Chords.md",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/markdown/hiring-president.html",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/markdown/hiring-president.md",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/index.html",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/chapter-two-hiring-president.html",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/chapter-one-past-and-present.html",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/less/styles-mizzou.less",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/less/special-projects.less",
+		"/Users/nathanlawrence/projects/kbia-mizzou/components/less/ghost-button.less",
+		"/Users/nathanlawrence/Library/Containers/com.apple.PhotoBooth/Data/Pictures/Photo Booth Library/Pictures/Photo on 2-19-16 at 10.41 PM.jpg",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/about.md",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/styles-neighbortone.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/_includes/header.html",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/_includes/footer.html",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/ghost-button.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/bootstrap/responsive-utilities.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/_config.yml",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/bootstrap/variables.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/nl-animate.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/styles.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/index.html",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/special-projects.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/gulpfile.js",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/charts.less",
+		"/Users/nathanlawrence/projects/neighbortoneconcerts/less/button-hollow.less",
+		"/Users/nathanlawrence/projects/kbia-mizzou/gulpfile.js",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/_posts/2014-06-02-fix-premiere-error-compiling.markdown",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/_includes/footer.html",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/_includes/header.html",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/_includes/head.html",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/less/bootstrap/variables.less",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/_config.yml",
+		"/Users/nathanlawrence/projects/nathanlawrence.github.io/less/index.less",
+		"/Users/nathanlawrence/projects/danielbernstein-org/less/jumbotron.less",
+		"/Users/nathanlawrence/projects/danielbernstein-org/index.html",
+		"/Users/nathanlawrence/Downloads/rootkey.csv",
+		"/Users/nathanlawrence/projects/shooting-lottery/scripts/parse-state.py",
+		"/Users/nathanlawrence/projects/hacks_hackers/dec_09/james-demo.py",
+		"/Users/nathanlawrence/projects/django/comparecameras/caminfo/admin.py",
+		"/Users/nathanlawrence/projects/django/comparecameras/caminfo/models.py",
+		"/Users/nathanlawrence/projects/django/kbia_quiz_django/static/less/index.less",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/hacks_hackers_django/wsgi.py",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/hacks_hackers_django/urls.py",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/hacks_hackers_django/__init__.py",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/hacks_hackers_django/settings.py",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/quiz/admin.py",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/quiz/models.py",
+		"/Users/nathanlawrence/projects/django/kbia-quiz-django/manage.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jquery",
+			"..</",
+			"between sisters",
+			"heresay_logo",
+			"height",
+			"Concerned Student 1-9-5-0",
+			" \\n",
+			"  ",
+			"  \\s+",
+			"Hiring a President - Mizzou at A Crossroads",
+			".\n",
+			"University of Missouri",
+			"[",
+			"global one",
+			"%",
+			"1em",
+			"caption",
+			"	\n",
+			"150px",
+			"hidden-sm-down",
+			"4em",
+			"She",
+			"her",
+			"guy",
+			"girl",
+			"testing",
+			"Heading",
+			"myApp",
+			"h3",
+			"video",
+			" >",
+			"border-riadius",
+			"radius",
+			"	\n",
+			"hacks_hackers_django",
+			"import",
+			"hacks_hackers_django"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Concerned Student 1950",
+			"\\n",
+			" \\n",
+			" ",
+			"Starting the Conversation - Mizzou at a Crossroads",
+			"University of Missouri",
+			" percent",
+			"He",
+			"his",
+			"guy",
+			"cheatsheet",
+			"testing",
+			"kbia-quiz-django"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "election.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
