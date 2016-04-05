@@ -1,73 +1,67 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>KBIA Election Tracker</title>
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
-	<script type="text/javascript" src="js/lib/tabletop.js"></script>
-</head>
-<body>
-<h1 class="text-center">Missouri and Columbia Election Results</h1>
-<div class="hidden-xs">
-	<div class="container-fluid">
-	<div class="reported">Last Updated 11:59 p.m. on March 15</div>
-	<div class="reported">Commentary by Nathan Lawrence, KBIA Digital Content Director</div>
-	<div class="col-sm-4">
-		<h3 class="text-center">GOP Presidential Nomination</h3>
-		<canvas id="gop-nom" width="200" height="200"></canvas>
-		<div class="reported">
-			3041 of 3041 precincts reported.
-		</div>
-		<div class="result text-center">
-			<span class="glyphicon glyphicon-question-sign"></span> Trump
-		</div>
-		<div class="reported">
-			Though election night data provided by the Missouri Secretary of State's office should still be considered unofficial, final counts Tuesday night put Trump slightly edging out Cruz 40.828 percent to 40.653 percent.
-		</div>
-		<!--<div class="result text-center">
-			<span class="glyphicon glyphicon-remove"></span> No Data
-		</div>-->
-	</div>
-	<div class="col-sm-4">
-		<h3 class="text-center">Dem. Presidential Nomination</h3>
-		<canvas id="dem-nom" width="200" height="200"></canvas>
-		<div class="reported">
-			3041 of 3041 precincts reported.
-		</div>
-		<div class="result text-center">
-			<span class="glyphicon glyphicon-question-sign"></span> Clinton
-		</div>
-		<div class="reported">
-			Though election night data provided by the Missouri Secretary of State's office should still be considered unofficial, final counts Tuesday night put Clinton slightly edging out Sanders 49.613 percent to 49.365 percent.
-		</div>
-		<!--<div class="result text-center">
-			<span class="glyphicon glyphicon-remove"></span> No Data
-		</div>-->
-	</div>
-	<div class="col-sm-4">
-		<h3 class="text-center">City of Columbia Proposition One</h3>
-		<canvas id="prop" width="200" height="200"></canvas>
-		<div class="reported">
-			38 of 38 precincts reported.
-		</div>
-		<div class="result text-center">
-			<span class="glyphicon glyphicon-ok-sign"></span> Yes
-		</div>
-		<div class="reported">
-			Reports from the Boone County Clerk's office show the measure, which postpones possible changes to the way Columbia handles trash collection, passed by a wide margin.
-		</div>
-		<!--<div class="result text-center">
-			<span class="glyphicon glyphicon-remove"></span> No Data
-		</div>-->
-	</div>
-</div>
-</div>
-<div class="visible-xs container-fluid">
-	<a class="ghost-button ghost-button-fill" href="http://apps.kbia.org/election-tracker/full.html" target="_blank">
-		View Now
-	</a>
-</div>
-	<script type="text/javascript" src="js/mkchart-2016prim.js"></script>
-</body>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>KBIA Election Tracker</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+		<script type="text/javascript" src="js/lib/tabletop.js"></script>
+		<script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="http://apps.kbia.org/pym/pym.js"></script>
+	</head>
+	<body>
+		<h1 class="text-center">Missouri and Columbia Election Results</h1>
+			<div class="container-fluid">
+				<div class="reported">Last Updated <span class="last-updated-time"></span> on March 15</div>
+				<div class="row">
+				<div class="col-sm-4">
+					<h3 class="text-center">GOP Presidential Nomination</h3>
+					<canvas id="gop-nom" width="200" height="200"></canvas>
+					<div class="reported">
+						3041 of 3041 precincts reported.
+					</div>
+					<!--<div class="result text-center">
+							<span class="glyphicon glyphicon-remove"></span> No Data
+					</div>-->
+				</div>
+				<div class="col-sm-4">
+					<h3 class="text-center">Dem. Presidential Nomination</h3>
+					<canvas id="dem-nom" width="200" height="200"></canvas>
+					<div class="reported">
+						3041 of 3041 precincts reported.
+					</div>
+					<!--<div class="result text-center">
+							<span class="glyphicon glyphicon-remove"></span> No Data
+					</div>-->
+				</div>
+				<div class="col-sm-4">
+					<h3 class="text-center">City of Columbia Proposition One</h3>
+					<canvas id="prop" width="200" height="200"></canvas>
+					<div class="reported">
+						38 of 38 precincts reported.
+					</div>
+					<!--<div class="result text-center">
+							<span class="glyphicon glyphicon-remove"></span> No Data
+					</div>-->
+				</div>
+				</div>
+
+				<!---View Prompt Div-->
+				<div class="row view-prompt-row">
+					<div class="view-prompt view-more">
+						<a href="#" onclick="viewMore();"><h3><span class="glyphicon glyphicon-menu-down"></span> View More Results <span class="glyphicon glyphicon-menu-down"></span></h3></a>
+					</div>
+				</div>
+				<!---End View Prompt Div-->
+
+			</div>
+		<script type="text/javascript" src="js/mkchart-2016prim.js"></script>
+		<script type="text/javascript" src="js/5apr2016.js"></script>
+		<script type="text/javascript">
+			$(window).load(function() {
+				pymChild = new pym.Child({});
+				pymChild.sendHeight();
+			});
+		</script>
+	</body>
 </html>
