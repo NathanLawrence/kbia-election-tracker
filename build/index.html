@@ -12,14 +12,14 @@
 	<body>
 		<h1 class="text-center">Missouri and Columbia Election Results</h1>
 			<div class="container-fluid">
-				<div class="reported">Last Updated <span class="last-updated-time"></span> on March 15</div>
-				<div class="row">
+				<div class="reported">Last Updated 8:45 p.m. on April 5</div>
+				<div class="row hidden-xs">
 
-				<div class="col-sm-4">
+				<div class="col-sm-4 hidden-xs">
 					<h3 class="text-center">Columbia Board of Education</h3>
-					<canvas id="co-boe" width="200" height="300" ></canvas>
+					<canvas id="co-boe" width="200" height="200" ></canvas>
 					<div class="reported">
-						0 of 40 precincts reported.
+						32 of 40 precincts reported.
 					</div>
 					<!--<div class="result text-center">
 							<span class="glyphicon glyphicon-remove"></span> No Data
@@ -28,59 +28,96 @@
 				
 				<div class="col-sm-4">
 					<h3 class="text-center">Columbia Mayoral Race</h3>
-					<canvas id="co-mayor" width="200" height="240" style="margin-bottom:60px"></canvas>
+					<canvas id="co-mayor" width="200" height="200"></canvas>
 					<div class="reported">
-						0 of 40 precincts reported.
+						28 of 34 precincts reported.
+						
 					</div>
 					<!--<div class="result text-center">
 							<span class="glyphicon glyphicon-remove"></span> No Data
 					</div>-->
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-4 hidden-xs">
 					<h3 class="text-center">Columbia City Council - Ward 3</h3>
-					<canvas id="co-ward-3" width="200" height="240" style="margin-bottom:60px"></canvas>
+					<canvas id="co-ward-3" width="200" height="200"></canvas>
 					<div class="reported">
-						0 of 40 precincts reported.
+						 Final.
 					</div>
 					<!--<div class="result text-center">
 							<span class="glyphicon glyphicon-remove"></span> No Data
 					</div>-->
 				</div>
 				</div>
+
+				
 				<div class="row below-fold hidden">
 					<div class="col-sm-3">
-						<h3 class="text-center">Test</h3>
-						<div class="static-bar-22">Static Bar 22</div>
-						<div class="static-bar-84">Static Bar 84</div>
-						<div class="static-bar-11">Static Bar 11</div>
+						<h3 class="text-center">Columbia Ward 4</h3>
+						<div class="static-bar-33">Daryl Dudley - 1,197</div>
+						<div class="static-bar-67">Ian Thomas - 2386</div>
+						<div class="reported">8 of 11 Precincts</div>
 					</div>
 
 					<div class="col-sm-3">
-						<h3 class="text-center">Test</h3>
-						<div class="static-bar-22">Static Bar 22</div>
-						<div class="static-bar-84">Static Bar 84</div>
-						<div class="static-bar-11">Static Bar 11</div>
+						<h3 class="text-center">Columbia Schools Question 1</h3>
+						<div class="static-bar-52">Yes - 9,152</div>
+						<div class="static-bar-48">No - 8,306</div>
+						<div class="reported">32 of 40 Precincts</div>
 					</div>
 
 					<div class="col-sm-3">
-						<h3 class="text-center">Test</h3>
-						<div class="static-bar-22">Static Bar 22</div>
-						<div class="static-bar-84">Static Bar 84</div>
-						<div class="static-bar-11">Static Bar 11</div>
+						<h3 class="text-center">Columbia Schools Question 2</h3>
+						<div class="static-bar-74">Yes - 12,914</div>
+						<div class="static-bar-26">No - 4,537</div>
+						<div class="reported">32 of 40 Precincts</div>
 					</div>
 
 					<div class="col-sm-3">
-						<h3 class="text-center">Test</h3>
-						<div class="static-bar-22">Static Bar 22</div>
-						<div class="static-bar-84">Static Bar 84</div>
-						<div class="static-bar-11">Static Bar 11</div>
+						<h3 class="text-center">Question - Southern Boone R1</h3>
+						<div class="static-bar-68">Yes - 847</div>
+						<div class="static-bar-32">No - 398</div>
+						<div class="reported">3 of 4 Precincts</div>
+					</div>
+
+					
+				</div>
+				
+
+				<!---Jeff City-->
+				<div class="row below-fold hidden">
+					<div class="col-sm-3">
+						<h3 class="text-center">Jefferson City Ward 2</h3>
+						<div class="static-bar-67">J. Rick Mihalevich - 340</div>
+						<div class="static-bar-33">Bud Fisher - 161</div>
+						<div class="reported">Final.</div>
+					</div>
+
+					<div class="col-sm-3">
+						<h3 class="text-center">Cole County Proposition A</h3>
+						<div class="static-bar-80">Yes - 5254</div>
+						<div class="static-bar-20">No - 1393</div>
+						<div class="reported">Final.</div>
+					</div>
+
+					<div class="col-sm-3">
+						<h3 class="text-center">Jefferson City Ward 4</h3>
+						<div class="static-bar-52">Costales - 502</div>
+						<div class="static-bar-48">Durbin - 468</div>
+						<div class="reported">Final.</div>
+					</div>
+
+					<div class="col-sm-3">
+						<h3 class="text-center">Wardsville Prop. B</h3>
+						<div class="static-bar-68">Yes - 166</div>
+						<div class="static-bar-32">No - 77</div>
+						<div class="reported">Final.</div>
 					</div>
 				</div>
 
 				<!---View Prompt Div-->
 				<div class="row view-prompt-row" style="margin-top:1em;">
 					<div class="view-prompt view-more">
-						<a onclick="viewMore();"><h3><span class="glyphicon glyphicon-menu-down"></span> View More Results <span class="glyphicon glyphicon-menu-down"></span></h3></a>
+						<a onclick="viewMore();"><h3><span class="glyphicon glyphicon-menu-down hidden-xs"></span> View More Results <span class="glyphicon glyphicon-menu-down hidden-xs"></span></h3></a>
 					</div>
 				</div>
 				<!---End View Prompt Div-->
