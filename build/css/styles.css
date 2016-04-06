@@ -7191,3 +7191,1003 @@ h1 {
   color: #222;
   text-align: center;
 }
+.static-bar-1 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 1%, #ccc 99%);
+}
+.static-bar-1:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 1%, #aaa 99%);
+}
+.static-bar-2 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 2%, #ccc 98%);
+}
+.static-bar-2:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 2%, #aaa 98%);
+}
+.static-bar-3 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 3%, #ccc 97%);
+}
+.static-bar-3:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 3%, #aaa 97%);
+}
+.static-bar-4 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 4%, #ccc 96%);
+}
+.static-bar-4:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 4%, #aaa 96%);
+}
+.static-bar-5 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 5%, #ccc 95%);
+}
+.static-bar-5:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 5%, #aaa 95%);
+}
+.static-bar-6 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 6%, #ccc 94%);
+}
+.static-bar-6:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 6%, #aaa 94%);
+}
+.static-bar-7 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 7%, #ccc 93%);
+}
+.static-bar-7:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 7%, #aaa 93%);
+}
+.static-bar-8 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 8%, #ccc 92%);
+}
+.static-bar-8:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 8%, #aaa 92%);
+}
+.static-bar-9 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 9%, #ccc 91%);
+}
+.static-bar-9:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 9%, #aaa 91%);
+}
+.static-bar-10 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 10%, #ccc 90%);
+}
+.static-bar-10:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 10%, #aaa 90%);
+}
+.static-bar-11 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 11%, #ccc 89%);
+}
+.static-bar-11:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 11%, #aaa 89%);
+}
+.static-bar-12 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 12%, #ccc 88%);
+}
+.static-bar-12:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 12%, #aaa 88%);
+}
+.static-bar-13 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 13%, #ccc 87%);
+}
+.static-bar-13:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 13%, #aaa 87%);
+}
+.static-bar-14 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 14%, #ccc 86%);
+}
+.static-bar-14:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 14%, #aaa 86%);
+}
+.static-bar-15 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 15%, #ccc 85%);
+}
+.static-bar-15:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 15%, #aaa 85%);
+}
+.static-bar-16 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 16%, #ccc 84%);
+}
+.static-bar-16:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 16%, #aaa 84%);
+}
+.static-bar-17 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 17%, #ccc 83%);
+}
+.static-bar-17:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 17%, #aaa 83%);
+}
+.static-bar-18 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 18%, #ccc 82%);
+}
+.static-bar-18:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 18%, #aaa 82%);
+}
+.static-bar-19 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 19%, #ccc 81%);
+}
+.static-bar-19:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 19%, #aaa 81%);
+}
+.static-bar-20 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 20%, #ccc 80%);
+}
+.static-bar-20:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 20%, #aaa 80%);
+}
+.static-bar-21 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 21%, #ccc 79%);
+}
+.static-bar-21:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 21%, #aaa 79%);
+}
+.static-bar-22 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 22%, #ccc 78%);
+}
+.static-bar-22:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 22%, #aaa 78%);
+}
+.static-bar-23 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 23%, #ccc 77%);
+}
+.static-bar-23:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 23%, #aaa 77%);
+}
+.static-bar-24 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 24%, #ccc 76%);
+}
+.static-bar-24:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 24%, #aaa 76%);
+}
+.static-bar-25 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 25%, #ccc 75%);
+}
+.static-bar-25:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 25%, #aaa 75%);
+}
+.static-bar-26 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 26%, #ccc 74%);
+}
+.static-bar-26:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 26%, #aaa 74%);
+}
+.static-bar-27 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 27%, #ccc 73%);
+}
+.static-bar-27:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 27%, #aaa 73%);
+}
+.static-bar-28 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 28%, #ccc 72%);
+}
+.static-bar-28:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 28%, #aaa 72%);
+}
+.static-bar-29 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 29%, #ccc 71%);
+}
+.static-bar-29:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 29%, #aaa 71%);
+}
+.static-bar-30 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 30%, #ccc 70%);
+}
+.static-bar-30:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 30%, #aaa 70%);
+}
+.static-bar-31 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 31%, #ccc 69%);
+}
+.static-bar-31:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 31%, #aaa 69%);
+}
+.static-bar-32 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 32%, #ccc 68%);
+}
+.static-bar-32:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 32%, #aaa 68%);
+}
+.static-bar-33 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 33%, #ccc 67%);
+}
+.static-bar-33:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 33%, #aaa 67%);
+}
+.static-bar-34 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 34%, #ccc 66%);
+}
+.static-bar-34:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 34%, #aaa 66%);
+}
+.static-bar-35 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 35%, #ccc 65%);
+}
+.static-bar-35:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 35%, #aaa 65%);
+}
+.static-bar-36 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 36%, #ccc 64%);
+}
+.static-bar-36:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 36%, #aaa 64%);
+}
+.static-bar-37 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 37%, #ccc 63%);
+}
+.static-bar-37:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 37%, #aaa 63%);
+}
+.static-bar-38 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 38%, #ccc 62%);
+}
+.static-bar-38:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 38%, #aaa 62%);
+}
+.static-bar-39 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 39%, #ccc 61%);
+}
+.static-bar-39:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 39%, #aaa 61%);
+}
+.static-bar-40 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 40%, #ccc 60%);
+}
+.static-bar-40:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 40%, #aaa 60%);
+}
+.static-bar-41 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 41%, #ccc 59%);
+}
+.static-bar-41:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 41%, #aaa 59%);
+}
+.static-bar-42 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 42%, #ccc 58%);
+}
+.static-bar-42:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 42%, #aaa 58%);
+}
+.static-bar-43 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 43%, #ccc 57%);
+}
+.static-bar-43:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 43%, #aaa 57%);
+}
+.static-bar-44 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 44%, #ccc 56%);
+}
+.static-bar-44:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 44%, #aaa 56%);
+}
+.static-bar-45 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 45%, #ccc 55%);
+}
+.static-bar-45:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 45%, #aaa 55%);
+}
+.static-bar-46 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 46%, #ccc 54%);
+}
+.static-bar-46:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 46%, #aaa 54%);
+}
+.static-bar-47 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 47%, #ccc 53%);
+}
+.static-bar-47:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 47%, #aaa 53%);
+}
+.static-bar-48 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 48%, #ccc 52%);
+}
+.static-bar-48:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 48%, #aaa 52%);
+}
+.static-bar-49 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 49%, #ccc 51%);
+}
+.static-bar-49:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 49%, #aaa 51%);
+}
+.static-bar-50 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 50%, #ccc 50%);
+}
+.static-bar-50:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 50%, #aaa 50%);
+}
+.static-bar-51 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 51%, #ccc 49%);
+}
+.static-bar-51:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 51%, #aaa 49%);
+}
+.static-bar-52 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 52%, #ccc 48%);
+}
+.static-bar-52:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 52%, #aaa 48%);
+}
+.static-bar-53 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 53%, #ccc 47%);
+}
+.static-bar-53:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 53%, #aaa 47%);
+}
+.static-bar-54 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 54%, #ccc 46%);
+}
+.static-bar-54:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 54%, #aaa 46%);
+}
+.static-bar-55 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 55%, #ccc 45%);
+}
+.static-bar-55:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 55%, #aaa 45%);
+}
+.static-bar-56 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 56%, #ccc 44%);
+}
+.static-bar-56:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 56%, #aaa 44%);
+}
+.static-bar-57 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 57%, #ccc 43%);
+}
+.static-bar-57:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 57%, #aaa 43%);
+}
+.static-bar-58 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 58%, #ccc 42%);
+}
+.static-bar-58:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 58%, #aaa 42%);
+}
+.static-bar-59 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 59%, #ccc 41%);
+}
+.static-bar-59:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 59%, #aaa 41%);
+}
+.static-bar-60 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 60%, #ccc 40%);
+}
+.static-bar-60:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 60%, #aaa 40%);
+}
+.static-bar-61 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 61%, #ccc 39%);
+}
+.static-bar-61:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 61%, #aaa 39%);
+}
+.static-bar-62 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 62%, #ccc 38%);
+}
+.static-bar-62:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 62%, #aaa 38%);
+}
+.static-bar-63 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 63%, #ccc 37%);
+}
+.static-bar-63:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 63%, #aaa 37%);
+}
+.static-bar-64 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 64%, #ccc 36%);
+}
+.static-bar-64:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 64%, #aaa 36%);
+}
+.static-bar-65 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 65%, #ccc 35%);
+}
+.static-bar-65:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 65%, #aaa 35%);
+}
+.static-bar-66 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 66%, #ccc 34%);
+}
+.static-bar-66:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 66%, #aaa 34%);
+}
+.static-bar-67 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 67%, #ccc 33%);
+}
+.static-bar-67:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 67%, #aaa 33%);
+}
+.static-bar-68 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 68%, #ccc 32%);
+}
+.static-bar-68:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 68%, #aaa 32%);
+}
+.static-bar-69 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 69%, #ccc 31%);
+}
+.static-bar-69:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 69%, #aaa 31%);
+}
+.static-bar-70 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 70%, #ccc 30%);
+}
+.static-bar-70:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 70%, #aaa 30%);
+}
+.static-bar-71 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 71%, #ccc 29%);
+}
+.static-bar-71:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 71%, #aaa 29%);
+}
+.static-bar-72 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 72%, #ccc 28%);
+}
+.static-bar-72:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 72%, #aaa 28%);
+}
+.static-bar-73 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 73%, #ccc 27%);
+}
+.static-bar-73:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 73%, #aaa 27%);
+}
+.static-bar-74 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 74%, #ccc 26%);
+}
+.static-bar-74:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 74%, #aaa 26%);
+}
+.static-bar-75 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 75%, #ccc 25%);
+}
+.static-bar-75:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 75%, #aaa 25%);
+}
+.static-bar-76 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 76%, #ccc 24%);
+}
+.static-bar-76:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 76%, #aaa 24%);
+}
+.static-bar-77 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 77%, #ccc 23%);
+}
+.static-bar-77:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 77%, #aaa 23%);
+}
+.static-bar-78 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 78%, #ccc 22%);
+}
+.static-bar-78:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 78%, #aaa 22%);
+}
+.static-bar-79 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 79%, #ccc 21%);
+}
+.static-bar-79:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 79%, #aaa 21%);
+}
+.static-bar-80 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 80%, #ccc 20%);
+}
+.static-bar-80:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 80%, #aaa 20%);
+}
+.static-bar-81 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 81%, #ccc 19%);
+}
+.static-bar-81:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 81%, #aaa 19%);
+}
+.static-bar-82 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 82%, #ccc 18%);
+}
+.static-bar-82:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 82%, #aaa 18%);
+}
+.static-bar-83 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 83%, #ccc 17%);
+}
+.static-bar-83:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 83%, #aaa 17%);
+}
+.static-bar-84 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 84%, #ccc 16%);
+}
+.static-bar-84:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 84%, #aaa 16%);
+}
+.static-bar-85 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 85%, #ccc 15%);
+}
+.static-bar-85:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 85%, #aaa 15%);
+}
+.static-bar-86 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 86%, #ccc 14%);
+}
+.static-bar-86:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 86%, #aaa 14%);
+}
+.static-bar-87 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 87%, #ccc 13%);
+}
+.static-bar-87:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 87%, #aaa 13%);
+}
+.static-bar-88 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 88%, #ccc 12%);
+}
+.static-bar-88:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 88%, #aaa 12%);
+}
+.static-bar-89 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 89%, #ccc 11%);
+}
+.static-bar-89:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 89%, #aaa 11%);
+}
+.static-bar-90 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 90%, #ccc 10%);
+}
+.static-bar-90:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 90%, #aaa 10%);
+}
+.static-bar-91 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 91%, #ccc 9%);
+}
+.static-bar-91:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 91%, #aaa 9%);
+}
+.static-bar-92 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 92%, #ccc 8%);
+}
+.static-bar-92:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 92%, #aaa 8%);
+}
+.static-bar-93 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 93%, #ccc 7%);
+}
+.static-bar-93:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 93%, #aaa 7%);
+}
+.static-bar-94 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 94%, #ccc 6%);
+}
+.static-bar-94:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 94%, #aaa 6%);
+}
+.static-bar-95 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 95%, #ccc 5%);
+}
+.static-bar-95:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 95%, #aaa 5%);
+}
+.static-bar-96 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 96%, #ccc 4%);
+}
+.static-bar-96:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 96%, #aaa 4%);
+}
+.static-bar-97 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 97%, #ccc 3%);
+}
+.static-bar-97:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 97%, #aaa 3%);
+}
+.static-bar-98 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 98%, #ccc 2%);
+}
+.static-bar-98:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 98%, #aaa 2%);
+}
+.static-bar-99 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 99%, #ccc 1%);
+}
+.static-bar-99:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 99%, #aaa 1%);
+}
+.static-bar-100 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 100%, #ccc 0%);
+}
+.static-bar-100:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 100%, #aaa 0%);
+}
