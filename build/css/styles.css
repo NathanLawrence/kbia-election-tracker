@@ -7191,995 +7191,1105 @@ h1 {
   color: #222;
   text-align: center;
 }
+.static-bar-0 {
+  color: #fff;
+  width: 100%;
+  text-align: right;
+  padding-right: 1em;
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 0%, #ccc 0%);
+  margin-bottom: 0.5em;
+}
+.static-bar-0:hover {
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 0%, #aaa 0%);
+}
 .static-bar-1 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 1%, #ccc 99%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 1%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-1:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 1%, #aaa 99%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 1%, #aaa 0%);
 }
 .static-bar-2 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 2%, #ccc 98%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 2%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-2:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 2%, #aaa 98%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 2%, #aaa 0%);
 }
 .static-bar-3 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 3%, #ccc 97%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 3%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-3:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 3%, #aaa 97%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 3%, #aaa 0%);
 }
 .static-bar-4 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 4%, #ccc 96%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 4%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-4:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 4%, #aaa 96%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 4%, #aaa 0%);
 }
 .static-bar-5 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 5%, #ccc 95%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 5%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-5:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 5%, #aaa 95%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 5%, #aaa 0%);
 }
 .static-bar-6 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 6%, #ccc 94%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 6%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-6:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 6%, #aaa 94%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 6%, #aaa 0%);
 }
 .static-bar-7 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 7%, #ccc 93%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 7%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-7:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 7%, #aaa 93%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 7%, #aaa 0%);
 }
 .static-bar-8 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 8%, #ccc 92%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 8%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-8:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 8%, #aaa 92%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 8%, #aaa 0%);
 }
 .static-bar-9 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 9%, #ccc 91%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 9%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-9:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 9%, #aaa 91%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 9%, #aaa 0%);
 }
 .static-bar-10 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 10%, #ccc 90%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 10%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-10:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 10%, #aaa 90%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 10%, #aaa 0%);
 }
 .static-bar-11 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 11%, #ccc 89%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 11%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-11:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 11%, #aaa 89%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 11%, #aaa 0%);
 }
 .static-bar-12 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 12%, #ccc 88%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 12%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-12:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 12%, #aaa 88%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 12%, #aaa 0%);
 }
 .static-bar-13 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 13%, #ccc 87%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 13%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-13:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 13%, #aaa 87%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 13%, #aaa 0%);
 }
 .static-bar-14 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 14%, #ccc 86%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 14%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-14:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 14%, #aaa 86%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 14%, #aaa 0%);
 }
 .static-bar-15 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 15%, #ccc 85%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 15%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-15:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 15%, #aaa 85%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 15%, #aaa 0%);
 }
 .static-bar-16 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 16%, #ccc 84%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 16%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-16:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 16%, #aaa 84%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 16%, #aaa 0%);
 }
 .static-bar-17 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 17%, #ccc 83%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 17%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-17:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 17%, #aaa 83%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 17%, #aaa 0%);
 }
 .static-bar-18 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 18%, #ccc 82%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 18%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-18:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 18%, #aaa 82%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 18%, #aaa 0%);
 }
 .static-bar-19 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 19%, #ccc 81%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 19%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-19:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 19%, #aaa 81%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 19%, #aaa 0%);
 }
 .static-bar-20 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 20%, #ccc 80%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 20%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-20:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 20%, #aaa 80%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 20%, #aaa 0%);
 }
 .static-bar-21 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 21%, #ccc 79%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 21%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-21:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 21%, #aaa 79%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 21%, #aaa 0%);
 }
 .static-bar-22 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 22%, #ccc 78%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 22%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-22:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 22%, #aaa 78%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 22%, #aaa 0%);
 }
 .static-bar-23 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 23%, #ccc 77%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 23%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-23:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 23%, #aaa 77%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 23%, #aaa 0%);
 }
 .static-bar-24 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 24%, #ccc 76%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 24%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-24:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 24%, #aaa 76%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 24%, #aaa 0%);
 }
 .static-bar-25 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 25%, #ccc 75%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 25%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-25:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 25%, #aaa 75%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 25%, #aaa 0%);
 }
 .static-bar-26 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 26%, #ccc 74%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 26%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-26:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 26%, #aaa 74%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 26%, #aaa 0%);
 }
 .static-bar-27 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 27%, #ccc 73%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 27%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-27:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 27%, #aaa 73%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 27%, #aaa 0%);
 }
 .static-bar-28 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 28%, #ccc 72%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 28%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-28:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 28%, #aaa 72%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 28%, #aaa 0%);
 }
 .static-bar-29 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 29%, #ccc 71%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 29%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-29:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 29%, #aaa 71%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 29%, #aaa 0%);
 }
 .static-bar-30 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 30%, #ccc 70%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 30%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-30:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 30%, #aaa 70%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 30%, #aaa 0%);
 }
 .static-bar-31 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 31%, #ccc 69%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 31%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-31:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 31%, #aaa 69%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 31%, #aaa 0%);
 }
 .static-bar-32 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 32%, #ccc 68%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 32%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-32:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 32%, #aaa 68%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 32%, #aaa 0%);
 }
 .static-bar-33 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 33%, #ccc 67%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 33%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-33:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 33%, #aaa 67%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 33%, #aaa 0%);
 }
 .static-bar-34 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 34%, #ccc 66%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 34%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-34:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 34%, #aaa 66%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 34%, #aaa 0%);
 }
 .static-bar-35 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 35%, #ccc 65%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 35%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-35:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 35%, #aaa 65%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 35%, #aaa 0%);
 }
 .static-bar-36 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 36%, #ccc 64%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 36%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-36:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 36%, #aaa 64%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 36%, #aaa 0%);
 }
 .static-bar-37 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 37%, #ccc 63%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 37%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-37:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 37%, #aaa 63%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 37%, #aaa 0%);
 }
 .static-bar-38 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 38%, #ccc 62%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 38%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-38:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 38%, #aaa 62%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 38%, #aaa 0%);
 }
 .static-bar-39 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 39%, #ccc 61%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 39%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-39:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 39%, #aaa 61%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 39%, #aaa 0%);
 }
 .static-bar-40 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 40%, #ccc 60%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 40%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-40:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 40%, #aaa 60%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 40%, #aaa 0%);
 }
 .static-bar-41 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 41%, #ccc 59%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 41%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-41:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 41%, #aaa 59%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 41%, #aaa 0%);
 }
 .static-bar-42 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 42%, #ccc 58%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 42%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-42:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 42%, #aaa 58%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 42%, #aaa 0%);
 }
 .static-bar-43 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 43%, #ccc 57%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 43%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-43:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 43%, #aaa 57%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 43%, #aaa 0%);
 }
 .static-bar-44 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 44%, #ccc 56%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 44%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-44:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 44%, #aaa 56%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 44%, #aaa 0%);
 }
 .static-bar-45 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 45%, #ccc 55%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 45%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-45:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 45%, #aaa 55%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 45%, #aaa 0%);
 }
 .static-bar-46 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 46%, #ccc 54%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 46%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-46:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 46%, #aaa 54%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 46%, #aaa 0%);
 }
 .static-bar-47 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 47%, #ccc 53%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 47%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-47:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 47%, #aaa 53%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 47%, #aaa 0%);
 }
 .static-bar-48 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 48%, #ccc 52%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 48%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-48:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 48%, #aaa 52%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 48%, #aaa 0%);
 }
 .static-bar-49 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 49%, #ccc 51%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 49%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-49:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 49%, #aaa 51%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 49%, #aaa 0%);
 }
 .static-bar-50 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 50%, #ccc 50%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 50%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-50:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 50%, #aaa 50%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 50%, #aaa 0%);
 }
 .static-bar-51 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 51%, #ccc 49%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 51%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-51:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 51%, #aaa 49%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 51%, #aaa 0%);
 }
 .static-bar-52 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 52%, #ccc 48%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 52%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-52:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 52%, #aaa 48%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 52%, #aaa 0%);
 }
 .static-bar-53 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 53%, #ccc 47%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 53%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-53:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 53%, #aaa 47%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 53%, #aaa 0%);
 }
 .static-bar-54 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 54%, #ccc 46%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 54%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-54:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 54%, #aaa 46%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 54%, #aaa 0%);
 }
 .static-bar-55 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 55%, #ccc 45%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 55%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-55:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 55%, #aaa 45%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 55%, #aaa 0%);
 }
 .static-bar-56 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 56%, #ccc 44%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 56%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-56:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 56%, #aaa 44%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 56%, #aaa 0%);
 }
 .static-bar-57 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 57%, #ccc 43%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 57%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-57:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 57%, #aaa 43%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 57%, #aaa 0%);
 }
 .static-bar-58 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 58%, #ccc 42%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 58%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-58:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 58%, #aaa 42%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 58%, #aaa 0%);
 }
 .static-bar-59 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 59%, #ccc 41%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 59%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-59:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 59%, #aaa 41%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 59%, #aaa 0%);
 }
 .static-bar-60 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 60%, #ccc 40%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 60%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-60:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 60%, #aaa 40%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 60%, #aaa 0%);
 }
 .static-bar-61 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 61%, #ccc 39%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 61%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-61:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 61%, #aaa 39%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 61%, #aaa 0%);
 }
 .static-bar-62 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 62%, #ccc 38%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 62%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-62:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 62%, #aaa 38%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 62%, #aaa 0%);
 }
 .static-bar-63 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 63%, #ccc 37%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 63%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-63:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 63%, #aaa 37%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 63%, #aaa 0%);
 }
 .static-bar-64 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 64%, #ccc 36%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 64%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-64:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 64%, #aaa 36%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 64%, #aaa 0%);
 }
 .static-bar-65 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 65%, #ccc 35%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 65%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-65:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 65%, #aaa 35%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 65%, #aaa 0%);
 }
 .static-bar-66 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 66%, #ccc 34%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 66%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-66:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 66%, #aaa 34%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 66%, #aaa 0%);
 }
 .static-bar-67 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 67%, #ccc 33%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 67%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-67:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 67%, #aaa 33%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 67%, #aaa 0%);
 }
 .static-bar-68 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 68%, #ccc 32%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 68%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-68:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 68%, #aaa 32%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 68%, #aaa 0%);
 }
 .static-bar-69 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 69%, #ccc 31%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 69%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-69:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 69%, #aaa 31%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 69%, #aaa 0%);
 }
 .static-bar-70 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 70%, #ccc 30%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 70%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-70:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 70%, #aaa 30%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 70%, #aaa 0%);
 }
 .static-bar-71 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 71%, #ccc 29%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 71%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-71:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 71%, #aaa 29%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 71%, #aaa 0%);
 }
 .static-bar-72 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 72%, #ccc 28%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 72%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-72:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 72%, #aaa 28%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 72%, #aaa 0%);
 }
 .static-bar-73 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 73%, #ccc 27%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 73%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-73:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 73%, #aaa 27%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 73%, #aaa 0%);
 }
 .static-bar-74 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 74%, #ccc 26%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 74%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-74:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 74%, #aaa 26%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 74%, #aaa 0%);
 }
 .static-bar-75 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 75%, #ccc 25%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 75%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-75:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 75%, #aaa 25%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 75%, #aaa 0%);
 }
 .static-bar-76 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 76%, #ccc 24%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 76%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-76:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 76%, #aaa 24%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 76%, #aaa 0%);
 }
 .static-bar-77 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 77%, #ccc 23%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 77%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-77:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 77%, #aaa 23%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 77%, #aaa 0%);
 }
 .static-bar-78 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 78%, #ccc 22%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 78%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-78:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 78%, #aaa 22%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 78%, #aaa 0%);
 }
 .static-bar-79 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 79%, #ccc 21%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 79%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-79:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 79%, #aaa 21%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 79%, #aaa 0%);
 }
 .static-bar-80 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 80%, #ccc 20%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 80%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-80:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 80%, #aaa 20%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 80%, #aaa 0%);
 }
 .static-bar-81 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 81%, #ccc 19%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 81%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-81:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 81%, #aaa 19%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 81%, #aaa 0%);
 }
 .static-bar-82 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 82%, #ccc 18%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 82%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-82:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 82%, #aaa 18%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 82%, #aaa 0%);
 }
 .static-bar-83 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 83%, #ccc 17%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 83%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-83:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 83%, #aaa 17%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 83%, #aaa 0%);
 }
 .static-bar-84 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 84%, #ccc 16%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 84%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-84:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 84%, #aaa 16%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 84%, #aaa 0%);
 }
 .static-bar-85 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 85%, #ccc 15%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 85%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-85:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 85%, #aaa 15%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 85%, #aaa 0%);
 }
 .static-bar-86 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 86%, #ccc 14%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 86%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-86:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 86%, #aaa 14%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 86%, #aaa 0%);
 }
 .static-bar-87 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 87%, #ccc 13%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 87%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-87:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 87%, #aaa 13%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 87%, #aaa 0%);
 }
 .static-bar-88 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 88%, #ccc 12%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 88%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-88:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 88%, #aaa 12%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 88%, #aaa 0%);
 }
 .static-bar-89 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 89%, #ccc 11%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 89%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-89:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 89%, #aaa 11%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 89%, #aaa 0%);
 }
 .static-bar-90 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 90%, #ccc 10%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 90%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-90:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 90%, #aaa 10%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 90%, #aaa 0%);
 }
 .static-bar-91 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 91%, #ccc 9%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 91%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-91:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 91%, #aaa 9%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 91%, #aaa 0%);
 }
 .static-bar-92 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 92%, #ccc 8%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 92%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-92:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 92%, #aaa 8%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 92%, #aaa 0%);
 }
 .static-bar-93 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 93%, #ccc 7%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 93%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-93:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 93%, #aaa 7%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 93%, #aaa 0%);
 }
 .static-bar-94 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 94%, #ccc 6%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 94%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-94:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 94%, #aaa 6%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 94%, #aaa 0%);
 }
 .static-bar-95 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 95%, #ccc 5%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 95%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-95:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 95%, #aaa 5%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 95%, #aaa 0%);
 }
 .static-bar-96 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 96%, #ccc 4%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 96%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-96:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 96%, #aaa 4%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 96%, #aaa 0%);
 }
 .static-bar-97 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 97%, #ccc 3%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 97%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-97:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 97%, #aaa 3%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 97%, #aaa 0%);
 }
 .static-bar-98 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 98%, #ccc 2%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 98%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-98:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 98%, #aaa 2%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 98%, #aaa 0%);
 }
 .static-bar-99 {
   color: #fff;
   width: 100%;
   text-align: right;
   padding-right: 1em;
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 99%, #ccc 1%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 99%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-99:hover {
-  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 99%, #aaa 1%);
+  background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 99%, #aaa 0%);
 }
 .static-bar-100 {
   color: #fff;
@@ -8187,6 +8297,7 @@ h1 {
   text-align: right;
   padding-right: 1em;
   background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) 100%, #ccc 0%);
+  margin-bottom: 0.5em;
 }
 .static-bar-100:hover {
   background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) 100%, #aaa 0%);

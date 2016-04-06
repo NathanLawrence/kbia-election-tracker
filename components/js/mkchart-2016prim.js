@@ -1,3 +1,10 @@
+var pymChild;
+
+$(window).load(function() {
+                pymChild = new pym.Child({});
+                pymChild.sendHeight();
+            });
+
 var gopdata = {
     labels: ["Cruz", "Kasich", "Rubio", "Trump"],
     datasets: [
@@ -37,7 +44,6 @@ var propdata = {
         }]
 };
 
-var gopnom = document.getElementById("gop-nom").getContext("2d");
 var demnom = document.getElementById("dem-nom").getContext("2d");
 var prop = document.getElementById("prop").getContext("2d");
 
@@ -49,7 +55,6 @@ var options = {
         barShowStroke: false
 };
 
-new Chart(gopnom).Bar(gopdata, options);
 
 new Chart(demnom).Bar(demdata, options);
 

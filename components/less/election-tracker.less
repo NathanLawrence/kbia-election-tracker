@@ -27,16 +27,19 @@ h1{
 
 .generate-static-bar(100);
 
-.generate-static-bar(@n,@i:1) when (@i =< @n){
+.generate-static-bar(@n,@i:0) when (@i =< @n){
 
 		.static-bar-@{i}{
 			color: #fff;
 			width:100%;
 			text-align: right;
 			padding-right: 1em;
-			background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) (@i * 1%), #ccc ((100 - @i) * 1%));
+			background: linear-gradient(90deg, rgba(0, 38, 86, 0.5) (@i * 1%), #ccc ((100 - @i) * 0%));
+
+			margin-bottom:0.5em;
+
 			&:hover{
-				background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) (@i * 1%), #aaa ((100 - @i) * 1%));
+				background: linear-gradient(90deg, rgba(0, 38, 86, 0.75) (@i * 1%), #aaa ((100 - @i) * 0%));
 			}
 		}
 
