@@ -15,7 +15,7 @@ var mayordata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [47,53]
+            data: [48,52]
         }]
 };
 
@@ -28,7 +28,7 @@ var schooldata = {
             strokeColor: "rgba(0, 38, 86, 0.8)",
             highlightFill: "rgba(0, 38, 86, 0.75)",
             highlightStroke: "rgba(0, 38, 86, 1)",
-            data: [13,23,19,9,36]
+            data: [13,23,18,9,36]
         }]
 };
 
